@@ -1,42 +1,28 @@
-# 👋 Hi there, I'm Sourav Yadav!
+## 👋 Hi there, I'm Sourav Yadav!
 
-## 🚀 About Me  
-🌱 I’m currently learning AI and Data Science  
-🤔 I’m looking for help with advanced AI projects  
-💬 Ask me about Data Science, AI, or SQL  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sourav-yadav-737177328)  
-🛠️ Tech Stack  
+![Profile Views](https://komarev.com/ghpvc/?username=sourav-sudow&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/sourav-sudow?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/sourav-sudow?label=Stars&style=social)
 
-### **Languages**  
-- Python  
-- Java  
-- SQL  
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### **Frameworks**  
-- TensorFlow  
-- Keras  
-- Flask  
+### 🚀 About Me
+- 🌱 I’m currently learning **AI and Data Science**
+- 🤔 I’m looking for help with **advanced AI projects**
+- 💬 Ask me about **Data Science, AI, or SQL**
+- 📫 How to reach me: **[Email](mailto:your-email@example.com)** <!-- Replace with your actual email -->
 
-### **Tools & Databases**  
-- Git, Docker, Jupyter Notebook  
-- MySQL, MongoDB  
+### 🛠️ Tech Stack
+- **Languages:** Python, Java, SQL
+- **Frameworks:** TensorFlow, Keras, Flask
+- **Tools:** Git, Docker, Jupyter Notebook
+- **Databases:** MySQL, MongoDB
 
----
+### ⚡ Fun Fact
+I’m always up for a hackathon or brainstorming sessions! 🚀
 
-## 🎯 My Coding Journey in Action  
-
-| Multitasking Like a Pro |
-|-------------------------|
-| ![Multitasking](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlmZjl0NGl0bTY1dnE2dXRrdzl6c3ltNTNiOTJhdHpvNHk5dXE4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif) |
-
----
-
-## ⚡ Fun Fact  
-I’m always up for a hackathon or brainstorming sessions! 🚀  
-
----
-
-### 📌 **Connect with me:**  
-[![GitHub](https://img.shields.io/badge/GitHub-sourav--sudow-green)](https://github.com/sourav-sudow)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourav%20Yadav-blue)](https://www.linkedin.com/in/sourav-yadav-737177328)
-
+## 🚀 Aajao Connect kerte hai !!!
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-yadav-737177328)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourTwitterHandle) <!-- Replace with your Twitter link if you have one -->
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/yourInstagramHandle) <!-- Replace with your Instagram link if you have one -->
