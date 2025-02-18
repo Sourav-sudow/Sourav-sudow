@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **AI and Data Science**
 - 🤔 I’m looking for help with **advanced AI projects**
 - 💬 Ask me about **Data Science, AI, or SQL**
-- 📫 How to reach me: **[Email](mailto:your-email@example.com)** <!-- Replace with your actual email -->
+- 📫 How to reach me: **[Email](mailto:souravkumar8oct@gmail.com)**
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, Java, SQL
@@ -21,7 +21,7 @@
 ### ⚡ Fun Fact
 I’m always up for a hackathon or brainstorming sessions! 🚀
 
-## 🚀 Aajao Project Banate hai !!!
+## 🚀 Aajao Connect kerte hai !!!
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-yadav-737177328)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/SouravKuma5441)  
