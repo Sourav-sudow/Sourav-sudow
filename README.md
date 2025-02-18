@@ -21,8 +21,8 @@
 ### ⚡ Fun Fact
 I’m always up for a hackathon or brainstorming sessions! 🚀
 
-## 🚀 Aajao Connect kerte hai !!!
+## 🚀 Aajao Project Banate hai !!!
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-yadav-737177328)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourTwitterHandle) <!-- Replace with your actual Twitter link if you have one -->
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/yourInstagramHandle) <!-- Replace with your actual Instagram link if you have one -->
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/SouravKuma5441)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sourav.ydvv/)
