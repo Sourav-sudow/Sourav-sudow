@@ -4,7 +4,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/sourav-sudow?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/sourav-sudow?label=Stars&style=social)
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3o3enZiYWk3emY0N2djaXJ1em1zMG5oaGpsbGZvY2pweGFrOGRnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)">
 
 ### 🚀 About Me
 - 🌱 I’m currently learning **AI and Data Science**
